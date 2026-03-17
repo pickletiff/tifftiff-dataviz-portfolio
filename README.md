@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should totally~~~ hire me... no seriously. Check her out! 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should totally~~~ hire me... no seriously. Check me out! 
 
 # About me
 Hi! I really like numbers. Numbers are cool. If I'm not looking at numbers, I lion dance. If I'm not doing either, I'm in a soft blanket watching whatever is on YouTube. If I'm not doing those three then I am staring at the ceiling, contemplating the world as we know it.
@@ -27,7 +27,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Guys these projects are pretty cool.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)

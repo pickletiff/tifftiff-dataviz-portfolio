@@ -23,12 +23,14 @@ More professional sounding bio: Hi! I'm Tiffany Lu, and I'm a first year Master 
 # Portfolio
 Woah, my portfolio is gonna be super cool when this is all said and done!
 
+
+
 Everything from this point forward is from a template and will be updated throughout this here mini hehe!
 
-## Assignment as soon as I create the assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment as soon as I create the assignment: BOOP
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: BOOP but 3&4
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
@@ -52,17 +54,17 @@ You can build tables like this:
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
 |--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+| In the Hat   | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
+| Clifford     | dog         | You                 | You    | You             | Eating                              |
+| Dory         | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
 You can use different headings, like this: 
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
+# Here's a large title WOAH (H1)
+## Here's a subtitle Cute (H2)
+### ...and so on hehe I'm kinda small (H3)
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images

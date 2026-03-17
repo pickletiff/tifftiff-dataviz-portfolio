@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should totally~~~ hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should totally~~~ hire me... no seriously. Check her out! 
 
 # About me
 Hi! I really like numbers. Numbers are cool. If I'm not looking at numbers, I lion dance. If I'm not doing either, I'm in a soft blanket watching whatever is on YouTube. If I'm not doing those three then I am staring at the ceiling, contemplating the world as we know it.
@@ -38,7 +38,7 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff that Tiff is keeping for her own reference :D
+## Other stuff that Tiff is keeping for her own reference and cause she is constantly confused about something.
 
 ### Changing text
 

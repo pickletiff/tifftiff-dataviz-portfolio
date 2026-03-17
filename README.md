@@ -21,9 +21,11 @@ More professional sounding bio: Hi! I'm Tiffany Lu, and I'm a first year Master 
 3. I want to learn what my peers do!
 
 # Portfolio
-Woah, my portfolio is gonna be super cool. 
+Woah, my portfolio is gonna be super cool when this is all said and done!
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+Everything from this point forward is from a template and will be updated throughout this here mini hehe!
+
+## Assignment as soon as I create the assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -36,13 +38,13 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Other stuff that Tiff is keeping for her own reference :D
 
 ### Changing text
 
 You can change text, like this: 
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+**Here's some bold ooooo** text.  Here's some *italic spicy* text. Here's some ~~strikethrough oops~~ text. 
 
 ### Creating tables
 

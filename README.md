@@ -20,7 +20,7 @@ Woah, my portfolio is gonna be super cool when this is all said and done!
 
 Everything from this point forward is from a template and will be updated throughout this here mini hehe!
 
-## Assignment as soon as I create the assignment: BOOP
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: BOOP but 3&4

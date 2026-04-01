@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://pickletiff.github.io/tifftiff-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Are Cats Lazy?
 I love cats. They are fluffy beautiful balls of cutness, and I will fight anyone who disagrees with me.

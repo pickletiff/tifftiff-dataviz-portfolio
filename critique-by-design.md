@@ -10,6 +10,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 
 Original Graphic Link: https://lazy-cats.netlify.app/ 
+
 Datasource:
 Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
 

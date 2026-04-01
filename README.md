@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://pickletiff.github.io/tifftiff-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 These portfolio templates are for setting up your Telling Stories with Data site. Edit these pages and add new ones as needed.
 It's always helpful to keep track of your web URL. Consider putting that somewhere on your page for easy reference:
@@ -22,18 +22,9 @@ More professional sounding bio: Hi! I'm Tiffany Lu, and I'm a first year Master 
 # Portfolio
 Woah, my portfolio is gonna be super cool when this is all said and done!
 
+## [Visualizing Government Debt](visualizing-government-debt.md)
 
-
-Everything from this point forward is from a template and will be updated throughout this here mini hehe!
-
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 2: [Are Cats Lazy?](critique-by-design.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: BOOP but 3&4
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## [Are Cats Lazy?](critique-by-design.md) 
 
 ## Final project
 Guys these projects are pretty cool.

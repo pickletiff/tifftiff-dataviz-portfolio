@@ -16,7 +16,7 @@ Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (
 
 There are 3 visualizations, and I decided to choose the second graphic, the ribbon chart, which aimed to rank the top three actions a cat does during the summer and winter.
 
-insert screenshot here!
+<img src="cat-original-graphic.png" width="200"/>
 
 I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions. How much time did rank number 1 take up? For rank 2, were all the different activities taking up the same time, thus making them all rank 2? 
 

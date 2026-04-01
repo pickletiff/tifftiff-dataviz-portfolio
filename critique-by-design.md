@@ -1,11 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [Are Cats Lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Are Cats Lazy?
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+I love cats. That is all.
 
 ## Step one: the visualization
 
@@ -18,12 +14,13 @@ There are 3 visualizations, and I decided to choose the second graphic, the ribb
 
 <img src="cat-original-graphic.png" width="500"/>
 
-I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions. How much time did rank number 1 take up? For rank 2, were all the different activities taking up the same time, thus making them all rank 2? 
-
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
-Insert form summary.
+I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions.
+  - How much time did rank number 1 take up?
+  - For rank 2, were all the different activities taking up the same time, thus making them all rank 2?
+  - 
 
 ## Step three: Sketch a solution
 

@@ -9,7 +9,15 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Original Graphic Link: https://lazy-cats.netlify.app/ 
+Datasource:
+Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
+
+There are 3 visualizations, and I decided to choose the second graphic, the ribbon chart, which aimed to rank the top three actions a cat does during the summer and winter.
+
+insert screenshot here!
+
+I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions. How much time did rank number 1 take up? For rank 2, were all the different activities taking up the same time, thus making them all rank 2? 
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
@@ -59,9 +67,10 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 ## References
-_List any references you used here._
+Data Source: Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was not used in this assignment.
 

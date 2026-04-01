@@ -16,7 +16,7 @@ Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (
 
 There are 3 visualizations, and I decided to choose the second graphic, the ribbon chart, which aimed to rank the top three actions a cat does during the summer and winter.
 
-<img src="cat-original-graphic.png" width="200"/>
+<img src="cat-original-graphic.png" width="500"/>
 
 I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions. How much time did rank number 1 take up? For rank 2, were all the different activities taking up the same time, thus making them all rank 2? 
 
@@ -27,21 +27,21 @@ Insert form summary.
 
 ## Step three: Sketch a solution
 
+<img src="sketch-test.png" width="500"/>
 
+The first thing I wanted to tackle was the ranking system. How should I display the rankings without confusing the viewers which action is truly ranked first.
+
+I decided to create the data where the cats represent the activity and there are labels that explicitly rank the action.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions that I asked: 
 
 - Can you tell me what you think this is?
 
 - Can you describe to me what this is telling you?
 
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
 

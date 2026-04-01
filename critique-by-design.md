@@ -12,9 +12,11 @@ Original Graphic Link: https://lazy-cats.netlify.app/
 Datasource:
 Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
 
-There are 3 visualizations, and I decided to choose the second graphic, the ribbon chart, which aimed to rank the top three actions a cat does during the summer and winter.
+There are 3 visualizations, and I decided to choose the second graphic, the ribbon chart, which aimed to rank the top three actions a cat does during the summer and winter. This graphic had three filters.
 
 <img src="cat-original-graphic.png" width="700"/>
+<img src="summer.png" width="700"/>
+<img src="winter.png" width="700"/>
 
 ## Step two: the critique
 

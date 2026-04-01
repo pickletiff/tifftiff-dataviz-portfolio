@@ -91,6 +91,8 @@ I also played around with the filtering functions, and I was able to put two fil
 ## References
 Data Source: Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
 
+Lazy cats: A visual investigation into feline laziness. (n.d.). Retrieved April 1, 2026, from https://lazy-cats.netlify.app/
+
 Pivot Data from Columns to Rows. (n.d.). Retrieved April 1, 2026, from https://help.tableau.com/current/pro/desktop/en-us/pivot.htm
 
 ## AI acknowledgements

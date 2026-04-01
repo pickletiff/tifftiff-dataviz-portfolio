@@ -59,6 +59,8 @@ MSPPM Student: The rectangle-cat-like graphics are cute; however, a viewer could
 
 Student using the same dataset: Likes the idea of filtering the data somehow. Suggested that age and season could be filtered.
 
+Professor: Try to utilize Tableau or Datawrapper for this assignment since we are trying to build on this skillset.
+
 Synthesis: 
 
 I learned that even though my test sketch was cute and eye-catching, it does not completely answer the question of "top three things that cats do based on time spent". Time is not measured, and the graphics I included to show the cat actions could be interpreted in a way that can be confusing.
@@ -78,8 +80,16 @@ Final Solution!
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+I decided to try my hand at Tableau again. I wanted to see how I could translate multiple pieces of data and make them into sort of a nested bunch. I found through tableau they have a pivot field function, and that made the process of making this bar chart much easier for me!
+
+At one point I wanted to try to do the dual axis method, so I could make it cute, but it ended up not working out. The shapes would be placed inconsistently relative to the bars. I decided to not to go the cute route from that point.
+
+I also played around with the filtering functions, and I was able to put two filters and let them float on the graph without taking up so much space on the graphic. The finished product, I believe, both presents the data as it was previously intended but it also adds more information without overwhelming the viewer.
+
 ## References
 Data Source: Smit, M., Corner-Thomas, R. A., Draganova, I., Andrews, C. J., & Thomas, D. G. (2024). How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors, 24(8), 2623. https://doi.org/10.3390/s24082623
+
+Pivot Data from Columns to Rows. (n.d.). Retrieved April 1, 2026, from https://help.tableau.com/current/pro/desktop/en-us/pivot.htm
 
 ## AI acknowledgements
 AI was not used in this assignment.

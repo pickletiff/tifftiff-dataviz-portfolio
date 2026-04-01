@@ -20,7 +20,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 I chose this visualization because it took me a bit longer to understand what the graphic wanted to show me. Ribbon charts aim to show rank over time, and while the cat graphic does so, it leaves the viewers asking more questions.
   - How much time did rank number 1 take up?
   - For rank 2, were all the different activities taking up the same time, thus making them all rank 2?
-  - 
+  - Why is the ranking displayed this way?
 
 ## Step three: Sketch a solution
 

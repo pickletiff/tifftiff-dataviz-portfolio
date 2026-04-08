@@ -9,7 +9,7 @@ Fast foward a decade later, I watched a reality TV show about little girls going
 
 Then a controversial interview sparked my interest. On February 24, 2026, Timothée Chalamet made a comment claiming that "nobody cares about ballet" anymore. And thus, a project was born.
 
-Do people really not care about ballet anymore? I doubt it, but the interest does hang on the balance. Something also tells me that today's protrayal of dance on film and TV has something to do with it.
+Do people really not care about ballet anymore? I doubt it at least for now, but the interest does hang on the balance for the younger generation. Something also tells me that today's protrayal of dance on film and TV has something to do with it.
 
 I want to discuss the implications of on-screen media has on off-screen dance and dance competitions. It's possible I need to narrow this down to either dance as a whole or just dance competitions since there is quite a bit of context for either or.
 
@@ -25,11 +25,17 @@ However I do want to expose people in how difficult these dance comepetitions re
 
 Insert picture here
 
-I want to start off with a spicy hook. Timothy Chalamet's comment would likely do the trick.
+I want to start off with a spicy hook. Timothée Chalamet's comment would likely do the trick.
 
-From there I would talk about the scope of my project.
+From there I would talk about the scope of my project. For this project, I really want to find data on the following:
+- Dance competition popularity on-screen and off-screen. So this could be on viewership on-screen versus participation growth off-screen
+- Financial differences. Oftentimes when you win a competition, there is a monetary prize. There are also entry fees, lodging costs, etc. Hopefully there is some data on this.
+- Registered dance studios and or dance competitions - would really like to know if the data can be segemented by type of styles they offer and scoring rubrics
 
-In general, I don't want to protray this project in a positive light.
+The project will end with a call to action: appreciate all kinds of dance, and avoid putting expectations for one style onto another style.
+Is it appropriate for me to say "go outside and see a show"? I hope so.
+
+It'll likely dampen the mood. In general, I don't want to protray this project in a positive light. If anything, the call-to-action would be on the lighter side.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  

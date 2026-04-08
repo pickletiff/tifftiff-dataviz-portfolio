@@ -23,7 +23,7 @@ However I do want to expose people in how difficult these dance comepetitions re
 
 > Presentation Arc
 
-
+<img src="Story Arc.png" width="700"/>
 
 I want to start off with a spicy hook. Timothée Chalamet's comment would likely do the trick.
 
@@ -55,7 +55,7 @@ Insert image here
 
 I'm likely going to choose a couple dance competition websites to see if they have archival data from their previous competitions. Oftentimes, they keep the scoring for a number of years before deleting them. It is also possible they keep tabs on previous regulations and pricing.
 
-I'll likely be taking advantage of the CMU Library database since they have a section for the arts in entertainment! There is quite a bit of data from Statista and Kaggle on dance popularity.
+I'll likely be taking advantage of the CMU Library database since they have a section for the arts in entertainment! There is quite a bit of data from Statista on dance popularity. Though I would need to finesse the search option since much of the data is collected outside the United States.
 
 > Links to Data
 

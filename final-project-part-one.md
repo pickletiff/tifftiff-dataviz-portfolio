@@ -38,17 +38,14 @@ Is it appropriate for me to say "go outside and see a show"? I hope so.
 It'll likely dampen the mood. In general, I don't want to protray this project in a positive light. If anything, the call-to-action would be on the lighter side.
 
 ## Initial sketches
-> Dance Competition Popularity On-Screen and Off-Screen
+Full Initial sketches
+<img src="Final Project Test Sketches.png" width="700"/>
 
-Insert image here
+Top right is seeing the number of dance competitions through the years. I think three numbers is enough to get my point. I hope to use years that were significant such as the popularity of Dance Moms, explosion of dance media content, etc.
 
-> Prize money versus entry fees
+Top left is seeing the viewership of dance competition related shows. As of now I found data for "Dancing with the Stars" and "Dance Moms"
 
-Insert image here
-
-> Registered dance studios or dance competitions - possible segementation?
-
-Insert image here
+Bottom right is comparing competition entry fees with prize money. Individual dances do not cost as much; however, adding all the dance entries up and comparing it to the prize money (which isn't always money or of monetary value) is quite drastic. This chart will likely be the hardest to recreate since the data isn't necessarily centralized or well documented on reliable sites.
 
 # The data
 > Data source(s) and how they will be used...

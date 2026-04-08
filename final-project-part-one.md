@@ -23,7 +23,7 @@ However I do want to expose people in how difficult these dance comepetitions re
 
 > Presentation Arc
 
-Insert picture here
+
 
 I want to start off with a spicy hook. Timothée Chalamet's comment would likely do the trick.
 
@@ -38,27 +38,41 @@ Is it appropriate for me to say "go outside and see a show"? I hope so.
 It'll likely dampen the mood. In general, I don't want to protray this project in a positive light. If anything, the call-to-action would be on the lighter side.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Dance Competition Popularity On-Screen and Off-Screen
 
-Text here...
+Insert image here
+
+> Prize money versus entry fees
+
+Insert image here
+
+> Registered dance studios or dance competitions - possible segementation?
+
+Insert image here
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> Data source(s) and how they will be used...
 
-Text here...
+I'm likely going to choose a couple dance competition websites to see if they have archival data from their previous competitions. Oftentimes, they keep the scoring for a number of years before deleting them. It is also possible they keep tabs on previous regulations and pricing.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I'll likely be taking advantage of the CMU Library database since they have a section for the arts in entertainment! There is quite a bit of data from Statista and Kaggle on dance popularity.
 
+> Links to Data
+
+Traditional Datasets
 | Name | URL | Description |
 |------|-----|-------------|
+|   Dancing with the Stars Viewers   |  [Graph Here](https://www.ratingraph.com/tv-shows/dancing-with-the-stars-ratings-21609/)   |       DTWS ratings and viewing for every season.      |
 |      |     |             |
 |      |     |             |
-|      |     |             |
+
+Researching data through website history
+Starpower: This is one of the largest dance competitions in the United States and perhaps globally. They also include 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I'll be utilizing a combination of Tableau and Datawrapper to showcase my data. To present my project, I will be using Shorthand. I will be exploring ways to utilize the animation and video features to make sure the project matches the aura of dance but also in a darker tone. Maybe adding sounds would be beneficial.
 
-Text here...
+I'll likely research dance videos and images to better convey my message as well. As much as this is a data driven class, it's hard to showcase work ethic of dancers with just numbers alone. For that I will need to research carefully to make sure I give the proper attributions to videos and to the dancers performing in the videos.
 
 ## References
 _List any references you used here._

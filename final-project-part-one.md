@@ -63,11 +63,11 @@ Traditional Datasets
 | Name | URL | Description |
 |------|-----|-------------|
 |   Dancing with the Stars Viewers   |  [Graph Here](https://www.ratingraph.com/tv-shows/dancing-with-the-stars-ratings-21609/)   |       DTWS ratings and viewing for every season.      |
-|      |     |             |
-|      |     |             |
+|      |  [Potential cleaner dataset](https://medium.com/@dserrington/dancing-by-the-numbers-analyzing-20-years-of-dancing-with-the-stars-0f3dd1fe6a4b)   |      I'll take a look at this graph and the previous link to see which one is more accurate or more clean to gather data       |
+|   Dance Moms Ratings   |   [Dance Mom Wiki Page](https://dancemoms.fandom.com/wiki/Dance_Moms/Ratings)  |      Since I alluded to Dance moms, it feels fitting to include data from them.       |
 
 Researching data through website history
-Starpower: This is one of the largest dance competitions in the United States and perhaps globally. They also include 
+Starpower: This is one of the largest dance competitions in the United States and perhaps globally. I would need to get a deeper dive to see there datasets if they even have any. [2026 Rules and Fees](https://www.starpowertalent.com/rules/)
 
 # Method and medium
 I'll be utilizing a combination of Tableau and Datawrapper to showcase my data. To present my project, I will be using Shorthand. I will be exploring ways to utilize the animation and video features to make sure the project matches the aura of dance but also in a darker tone. Maybe adding sounds would be beneficial.

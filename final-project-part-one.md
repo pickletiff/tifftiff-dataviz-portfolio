@@ -23,6 +23,13 @@ However I do want to expose people in how difficult these dance comepetitions re
 
 > Presentation Arc
 
+Insert picture here
+
+I want to start off with a spicy hook. Timothy Chalamet's comment would likely do the trick.
+
+From there I would talk about the scope of my project.
+
+In general, I don't want to protray this project in a positive light.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  

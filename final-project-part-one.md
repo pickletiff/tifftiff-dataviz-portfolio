@@ -65,6 +65,7 @@ Traditional Datasets
 |   Dancing with the Stars Viewers   |  [Graph Here](https://www.ratingraph.com/tv-shows/dancing-with-the-stars-ratings-21609/)   |       DTWS ratings and viewing for every season.      |
 |      |  [Potential cleaner dataset](https://medium.com/@dserrington/dancing-by-the-numbers-analyzing-20-years-of-dancing-with-the-stars-0f3dd1fe6a4b)   |      I'll take a look at this graph and the previous link to see which one is more accurate or more clean to gather data       |
 |   Dance Moms Ratings   |   [Dance Mom Wiki Page](https://dancemoms.fandom.com/wiki/Dance_Moms/Ratings)  |      Since I alluded to Dance moms, it feels fitting to include data from them.       |
+|   Stastical Analysis of Competitive Dance   |   [Woot Woot Article](https://lockewatts.medium.com/a-statistical-analysis-of-competitive-dancing-96765d15c01e)  |      This is a pretty clean dataset, but I would need to do more digging      |
 
 These are only some of the datasets I wish to use, but I will likely need to research more indepth and do individual case studies on studios, finances, and other factors. They may not be easily accessible, but they are public to a degree.
 
@@ -77,7 +78,7 @@ I'll be utilizing a combination of Tableau and Datawrapper to showcase my data. 
 I'll likely research dance videos and images to better convey my message as well. As much as this is a data driven class, it's hard to showcase work ethic of dancers with just numbers alone. For that I will need to research carefully to make sure I give the proper attributions to videos and to the dancers performing in the videos.
 
 ## References
-Once I have shuffled through more data, this portion of References will be updated. There is a lot of data, but some of it is hard to get, but I am up for the challenge!
+Once I have shuffled through more data, this portion of References will be updated. There is a lot of data, but some of it is hard to get, but I am up for the challenge! It's also likely I won't use the data I listed in this part... but this is only the start of my journey with this project!
 
 ## AI acknowledgements
 In terms of this portion of the assignment, I did not use AI. It is possible that I will be using AI to an extent since the topic I wish to research does not have a uniform data center.

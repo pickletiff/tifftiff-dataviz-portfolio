@@ -60,6 +60,7 @@ In general I wanted to focus on the flow of the presentation. I believe I have q
 # Identified changes for Part III
 
 The main changes I plan on implementing next week to address the issues identified are the following:
+
 > Story flow and space 
 It was stated in the interview that there is an abrupt flow in the project, particularly in the end. There is a lot of data in the middle of the project rather than spread out. I need to figure out a way to make the project flow a bit better. Perhaps some title sections or an image that gives the audience a breather. I was also thinking of incorporating my own anecdotal data to give the project more personality. I had such a big purpose in creating this project, so it would be good to sprinkle the background into the project.
 

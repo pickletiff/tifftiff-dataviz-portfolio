@@ -8,7 +8,17 @@ The project will have less focus on the competition space and more on ballet and
 This is my final project Shorthand link once it gets published: 
 
 My Storyboard Workflow Sketch:
+<img src="Storyboard.jpeg" width="200"/>
 
+The flow should be the following:
+1. Title
+2. Tim quote
+3. The investment (Money, Time, Attention)
+4. Performing Arts in the US
+5. Performing Arts Adapting
+6. Performing Arts Constricting
+7. Call to Action
+8. References
 
 # User research 
 

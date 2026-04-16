@@ -3,8 +3,8 @@
 These portfolio templates are for setting up your Telling Stories with Data site. Edit these pages and add new ones as needed.
 It's always helpful to keep track of your web URL. Consider putting that somewhere on your page for easy reference:
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: (https://cmustudent.github.io/tswd-portfolio-templates/)
+- This repository: (https://github.com/cmustudent/tswd-portfolio-templates/)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should totally~~~ hire me... no seriously. Check me out! 
@@ -30,7 +30,7 @@ Woah, my portfolio is gonna be super cool when this is all said and done!
 Guys these projects are pretty cool.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff that Tiff is keeping for her own reference and cause she is constantly confused about something.

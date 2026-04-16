@@ -64,12 +64,15 @@ The main changes I plan on implementing next week to address the issues identifi
 It was stated in the interview that there is an abrupt flow in the project, particularly in the end. There is a lot of data in the middle of the project rather than spread out. I need to figure out a way to make the project flow a bit better. Perhaps some title sections or an image that gives the audience a breather. I was also thinking of incorporating my own anecdotal data to give the project more personality. I had such a big purpose in creating this project, so it would be good to sprinkle the background into the project.
 
 > Shorthand Engagement
+
 I'm still learning how to use Shorthand, so I need to figure out how I should use Shorthand to my advantage without overwhelming the viewers. If I add too many graphics, then the project will be slow and overwhelming. If I add not enough evidence, the target audience will be bored. I could learn how to do an "animation" of the chart like how the template did the line chart.
 
 > Practice my 60-second pitch
+
 To some degree, I have some sort of fear of public speaking. There is a 50/50 chance I will mess up my speech, and because there is only 60 seconds, there is no room for mistakes. My plan is to practice, practice practice. Not until perfect, but until permanent. I want to be able to not think while talking about my project. A potential method is to put myself where I was in middle school where I was pressured to do great in dance. This would set the tone of why I am doing this project.
 
 # Final thoughts
+
 I am still struggling to find detailed data that would not be super protected under copyright. This was the main reason why I updated my project scope. I believe the new direction for this project will assist in collecting public available data as well as having a more relatable story to grasp onto.
 
 I'm really excited to see how my project will take form!

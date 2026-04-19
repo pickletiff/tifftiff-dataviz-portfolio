@@ -21,6 +21,17 @@ The flow should be the following:
 7. Call to Action
 8. References
 
+Some of my finalized chart sketches
+Items that I am still missing:
+- References for the statista statistics (see below for explanation)
+  Sources:
+  [Dataset used for chart top left](https://www-statista-com.cmu.idm.oclc.org/outlook/amo/entertainment/theater-performance-arts/custom?token=8gzwW1ixpxB6IJUDbiTMDmwS9M-kedOhSM5rTJoI36ULkaS27m4wzKBoW3aUahrN-84-MVxDM1_Utfn1-EMjSVFckCSzV_fMgjPfZD0JL5i5SA==&currency=USD#revenue)
+
+Theater & Performance Arts. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/entertainment/theater-performance-arts/custom
+
+- Graphics for wage data and hiring
+<img src="Charts v2.png" width="700"/>
+
 # User research 
 
 ## Target audience 
@@ -81,7 +92,9 @@ I'm really excited to see how my project will take form!
 Random thought... I just noticed that data that I originally had access through for Statista is no longer accessible with the school license. I am not entirely sure what happened. Luckily I downloaded the data beforehand, but I need to look into my references and making sure they're being properly cited.
 
 ## References
-See final thoughts on the issue.
+
+Theater & Performance Arts. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/entertainment/theater-performance-arts/custom
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._

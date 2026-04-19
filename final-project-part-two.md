@@ -23,13 +23,8 @@ The flow should be the following:
 
 Some of my finalized chart sketches
 Items that I am still missing:
-- References for the statista statistics (see below for explanation)
-  Sources:
-  [Dataset used for chart top left](https://www-statista-com.cmu.idm.oclc.org/outlook/amo/entertainment/theater-performance-arts/custom?token=8gzwW1ixpxB6IJUDbiTMDmwS9M-kedOhSM5rTJoI36ULkaS27m4wzKBoW3aUahrN-84-MVxDM1_Utfn1-EMjSVFckCSzV_fMgjPfZD0JL5i5SA==&currency=USD#revenue)
-
-Theater & Performance Arts. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/entertainment/theater-performance-arts/custom
-
 - Graphics for wage data and hiring
+- Graphics for consumption of entertainment (I had it then I lost it oops.)
 <img src="Charts v2.png" width="700"/>
 
 # User research 
@@ -95,6 +90,7 @@ Random thought... I just noticed that data that I originally had access through 
 
 Theater & Performance Arts. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/entertainment/theater-performance-arts/custom
 
+Media. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/media/custom
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._

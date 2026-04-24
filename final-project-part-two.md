@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [are cats lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples.md) | [are cats lazy?](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 Please note my entry in part 1 has been updated. Because there are some factors in this project that would be difficult to navigate (archival dataset not being readily available, major copyright hurdles, etc), I have decided to take a broader approach to my project. Instead of focusing on dance competitions and the entertainment space, I have decided to surround the project around Timothée Chalamet's quote. The goal of the project is to determine if his statement remains true, and what are the determining factors that are contributing to the disturbance of the performing arts space.
@@ -91,7 +91,4 @@ Random thought... I just noticed that data that I originally had access through 
 Theater & Performance Arts. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/entertainment/theater-performance-arts/custom
 
 Media. (n.d.). Statista. Retrieved April 18, 2026, from https://www.statista.com/outlook/amo/media/custom
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 

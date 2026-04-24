@@ -35,8 +35,6 @@ I think my audience did alter slightly. My points that I made in Part II are sti
 3. Anyone who love and will defend the performing arts.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
 In part I, I wanted to take advantage of the animation tools and make the presentation eye-catching. In part II, I wanted to cater to the decreasing attention span of the younger generation with shorter, more concise information (among other items). 
 
 In my final project, I decided to be a little less concise and lean more on the informative and entertaining side. I didn't want to take myself too seriously in this project because I still wanted to be informative on a more serious subject matter. I kept things from part II relatively similar, but I added my own... Tiffy touch? I wanted to show I still had fun making this backhanded compliment of a presentation.

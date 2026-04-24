@@ -27,8 +27,6 @@ It was because I was spending more time taking ballet class, going to school, an
 I dug deeper into my family's finances and even referenced my own calendar back when I was at my busiest with dance, and I realized how much my upbringing shaped my current behavior. I don't dislike going to see dance performances, I love watching them when I go. My brain automatically thinks dance performances are a luxury, and I primed myself into thinking I didn't have the time or the money to go.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
 I think my audience did alter slightly. My points that I made in Part II are still pretty accurate except the final one. I should not be limiting to Gen Z and Gen Alpha. It should include anyone regardless of age. BUT it should be anyone who has strong, positive feelings for ballet, opera, or performing arts as a whole. I want to show them the other side of the argument... that there is an issue with the state of the performing arts.
 
 **So my final audience attributes are:**
@@ -47,7 +45,6 @@ In my final project, I decided to be a little less concise and lean more on the 
 On [Shorthand!](https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html)
 
 ## AI acknowledgements
-
 Honestly... I thought I would be using more AI in my final project, but I ended up really trusting my gut and passion for the performing arts industry to really make way for this project. There was no usage of AI while creating this final project.
 
 # Final thoughts

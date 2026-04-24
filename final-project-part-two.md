@@ -5,7 +5,7 @@ Please note my entry in part 1 has been updated. Because there are some factors 
 
 The project will have less focus on the competition space and more on ballet and performing arts in general being disrupted.
 
-This is my final project Shorthand link once it gets published: (https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html)
+This is my final project Shorthand link once it gets published: [https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html](https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html)
 
 My Storyboard Workflow Sketch:
 

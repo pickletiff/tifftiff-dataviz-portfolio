@@ -3,9 +3,8 @@
 # [The Final Data Story](https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-I made quite a lot of changes since part II.
+I made quite a few changes since part II...
 
 **1. Changing the title and subtitle**
 

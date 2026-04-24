@@ -1,14 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+# [The Final Data Story](https://carnegiemellon.shorthandstories.com/54e0d82c-ac98-4676-aa09-ca59edc347dc/index.html)
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+I made quite a lot of changes since part II.
+
+1. Changing the title and subtitle
+
+Originally the title was "Media vs. Ballet: is media disrupting the performing arts space" and the main focus was on the media. Instead, I wanted to frame this project on finding out _who_ was disrupting ballet. This would make researching (1) a bit easier, and (2) more meaningful to understand why the performing arts is in the state it is.
+
+2. Comparing the revenue of an industry that is predominantly non-profit versus an industry that is predominantly for-profit doesn't make a fair comparison.
+
+I originally thought that comparing revenues between the performing arts and media would play a stronger role in my project, but upon further researching and playing around on Shorthand, comparing the two industries ultimately did not seem logical. Revenue channels and audience attendance expectations are different between the two industries. The performing arts is inherently not for everyone while the media wants to aim for as many people as possible.
+
+Instead, I decided to look back at the quote to frame my argument of the project. Why do people, like Timothée Chalamet, thinks ballet and opera are dying? The first evidence that anyone would present when it comes to "caring" is attendance: the more people that watch or attend something, the more popular it is perceived to be. I redid my opening piece of evidence to attendance, and compared the attendance per year rather than comparing it to a different industry.
+
+3. Replacing Adapting and Constricting sections to _Personal Experience_.
+
+To make this project a bit more quantitative, I wanted to find a way to quantify adaptation and constriction of ballet
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.

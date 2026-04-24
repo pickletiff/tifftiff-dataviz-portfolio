@@ -19,12 +19,23 @@ Instead, I decided to look back at the quote to frame my argument of the project
 
 3. Replacing Adapting and Constricting sections to _Personal Experience_.
 
-To make this project a bit more quantitative, I wanted to find a way to quantify adaptation and constriction of ballet
+To make this project a bit more data-esque rather than referencing more articles, I wanted to find a way to quantify adaptation and constriction of ballet without using pure surveys and using publically accessible data. I realized through researching different surveys, there was an inherent bias towards the negative side of ballet wasn't an actual correlation to whether or someone will go to a performance. Negativity towards taking ballet classes did not correlate negativity towards going to watch the performances.
+
+So I thought of my own personal experiences and asked myself why didn't I attend more dance performances - especially growing up?
+
+It was because I was spending more time taking ballet class, going to school, and my family was on a tight budget. A reference to my introduction of the project's argument.
+
+I dug deeper into my family's finances and even referenced my own calendar back when I was at my busiest with dance, and I realized how much my upbringing shaped my current behavior. I don't dislike going to see dance performances, I love watching them when I go. My brain automatically thinks dance performances are a luxury, and I primed myself into thinking I didn't have the time or the money to go.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+I think my audience did alter slightly. My points that I made in Part II are still pretty accurate except the final one. I should not be limiting to Gen Z and Gen Alpha. It should include anyone regardless of age. BUT it should be anyone who has strong, positive feelings for ballet, opera, or performing arts as a whole. I want to show them the other side of the argument... that there is an issue with the state of the performing arts.
+
+So my final audience attributes are:
+1. Those in the United States or those who have interest in the United States in terms of entertainment.
+2. Those who are fans of arts and entertainment, particularly those who are interested in ballet and dance as a whole.
+3. Anyone who love and will defend the performing arts.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
